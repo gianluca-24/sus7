@@ -1,1 +1,1 @@
-# gli_imBruttit_sus7
+# Statistics Under the Stars 7 - Hackathon
